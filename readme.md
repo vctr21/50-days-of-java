@@ -1,0 +1,1 @@
+Implementacao de leitura de um array de tamanho fixo via console. Os valores foram exibidos para validacao.
